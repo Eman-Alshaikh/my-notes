@@ -19,5 +19,5 @@ Here are some of the key points that every developer must master:
 - (Mis)understanding :you should fully understand the systems and tools you are working with.
 - Simplicity : A “good developer” is doing everything in their power to make the code as simple as possible for other programmers.
 - Complexity: Your main purpose is to control complexity, not to create it.
-- Maintenance :It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation.
+- Maintenance :It is more important to reduce the effort of maintenance than it is to reduce the effort of implementation...
 
